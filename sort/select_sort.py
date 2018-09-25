@@ -12,27 +12,26 @@ def random_int_list(start, stop, length):
     return random_list
 
 
-def merge_sort(arr):
+def select_sort(arr):
+    def get_min(ar):
+        index, min_num = 0, ar[0]
+        for i, num in enumerate(ar[1:]):
+            if num < min_num:
+                index, min_num = i+1, num
+        ar.pop(index)
+        return min_num, ar
     length = len(arr)
     if length <= 1:
         return arr
-    mid = int(length/2)
-    left, right = arr[0:mid], arr[mid:]
-    left, right = merge_sort(left), merge_sort(right)
     res = []
-    while left and right:
-        if left[0] <= right[0]:
-            res.append(left.pop(0))
-        else:
-            res.append(right.pop(0))
-    if left:
-        res += left
-    if right:
-        res += right
+    while len(arr) > 1:
+        min_num, arr = get_min(arr)
+        res.append(min_num)
+    res.append(arr[0])
     return res
 
 
 if __name__ == '__main__':
     data = random_int_list(1, 100, 10)
     print(data)
-    print(merge_sort(data))
+    print(select_sort(data))
