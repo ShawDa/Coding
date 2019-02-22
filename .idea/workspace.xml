@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9ad098e0-f5af-47a8-a77c-a3238160594b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -248,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550802647747</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="update README">
+      <created>1550804124449</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1550804124449</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -301,7 +307,8 @@
     <MESSAGE value="add 039-043" />
     <MESSAGE value="add 044-048" />
     <MESSAGE value="add 37-42" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 37-42" />
+    <MESSAGE value="update README" />
+    <option name="LAST_COMMIT_MESSAGE" value="update README" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
