@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9ad098e0-f5af-47a8-a77c-a3238160594b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,7 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coding-interviews/15反转链表.py" />
         <option value="$PROJECT_DIR$/coding-interviews/16合并两个排序的链表.py" />
         <option value="$PROJECT_DIR$/coding-interviews/17树的子结构.py" />
         <option value="$PROJECT_DIR$/coding-interviews/18二叉树的镜像.py" />
@@ -86,6 +86,7 @@
         <option value="$PROJECT_DIR$/coding-interviews/40数组中只出现一次的数字.py" />
         <option value="$PROJECT_DIR$/coding-interviews/41和为S的连续正数序列.py" />
         <option value="$PROJECT_DIR$/coding-interviews/42和为S的两个数字.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -126,11 +127,6 @@
               <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding" type="462c0819:PsiDirectoryNode" />
-              <item name="coding-interviews" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -142,7 +138,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -245,7 +241,14 @@
       <option name="project" value="LOCAL" />
       <updated>1550719492697</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add 37-42">
+      <created>1550802647747</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1550802647747</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -297,7 +300,8 @@
     <MESSAGE value="add 033-038" />
     <MESSAGE value="add 039-043" />
     <MESSAGE value="add 044-048" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 044-048" />
+    <MESSAGE value="add 37-42" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 37-42" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -406,16 +410,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -662,6 +656,17 @@
         <state relative-caret-position="396">
           <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="198">
+            <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
