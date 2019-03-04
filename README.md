@@ -1,6 +1,6 @@
 # Coding
 
-## LeetCode
+## [LeetCode](https://leetcode-cn.com/problemset/all/)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -24,3 +24,13 @@
 |18|[四数之和](https://leetcode-cn.com/problems/4sum/)| [Python](leetcode/018四数之和.py)|中等|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| [Python](leetcode/019删除链表的倒数第N个节点.py)|中等|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| [Python](leetcode/020有效的括号.py)|简单|
+
+## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
+
+| # | Title | Solution |
+|---| ----- | -------- |
+1|[二维数组中的查找](https://www.nowcoder.com/practice/abc3fe2ce8e146608e868a70efebf62e?tpId=13&tqId=11154&tPage=1&rp=1&ru=/ta/coding-interviews&qru=/ta/coding-interviews/question-ranking)| [Python](coding-interviews/01二维数组中的查找.py)|
+2|[替换空格](https://www.nowcoder.com/practice/4060ac7e3e404ad1a894ef3e17650423?tpId=13&tqId=11155&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)| [Python](coding-interviews/02替换空格.py)|
+3|[从尾到头打印链表](https://www.nowcoder.com/practice/d0267f7f55b3412ba93bd35cfa8e8035?tpId=13&tqId=11156&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)| [Python](coding-interviews/03从尾到头打印链表.py)|
+4|[重建二叉树](https://www.nowcoder.com/practice/8a19cbe657394eeaac2f6ea9b0f6fcf6?tpId=13&tqId=11157&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)| [Python](coding-interviews/04重建二叉树.py)|
+5|[用两个栈实现队列](https://www.nowcoder.com/practice/54275ddae22f475981afa2244dd448c6?tpId=13&tqId=11158&tPage=1&rp=1&ru=%2Fta%2Fcoding-interviews&qru=%2Fta%2Fcoding-interviews%2Fquestion-ranking)| [Python](coding-interviews/05用两个栈实现队列.py)|
