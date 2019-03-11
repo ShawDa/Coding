@@ -1,6 +1,7 @@
 # Coding
 
 ## [LeetCode](https://leetcode-cn.com/problemset/all/)
+详细解答见我的CSDN专栏[LeetCode](https://blog.csdn.net/sinat_36811967/column/info/34419)
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
@@ -24,8 +25,19 @@
 |18|[四数之和](https://leetcode-cn.com/problems/4sum/)| [Python](leetcode/018四数之和.py)|中等|
 |19|[删除链表的倒数第N个节点](https://leetcode-cn.com/problems/remove-nth-node-from-end-of-list/)| [Python](leetcode/019删除链表的倒数第N个节点.py)|中等|
 |20|[有效的括号](https://leetcode-cn.com/problems/valid-parentheses/)| [Python](leetcode/020有效的括号.py)|简单|
+|21|[合并两个有序链表](https://leetcode-cn.com/problems/merge-two-sorted-lists/)| [Python](leetcode/021合并两个有序链表.py)|简单|
+|22|[括号生成](https://leetcode-cn.com/problems/generate-parentheses/)| [Python](leetcode/022括号生成.py)|中等|
+|23|[合并K个排序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)| [Python](leetcode/023合并K个排序链表.py)|困难|
+|24|[两两交换链表中的节点](https://leetcode-cn.com/problems/swap-nodes-in-pairs/)| [Python](leetcode/024两两交换链表中的节点.py)|中等|
+|25|[k个一组翻转链表](https://leetcode-cn.com/problems/reverse-nodes-in-k-group/)| [Python](leetcode/025k个一组翻转链表.py)|困难|
+|26|[删除排序数组中的重复项](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array/)| [Python](leetcode/026删除排序数组中的重复项.py)|简单|
+|27|[移除元素](https://leetcode-cn.com/problems/remove-element/)| [Python](leetcode/027移除元素.py)|简单|
+|28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [Python](leetcode/028实现strStr().py)|简单|
+|29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)| [Python](leetcode/029两数相除.py)|中等|
+|30|[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [Python](leetcode/030串联所有单词的子串.py)|困难|
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
+详细解答见我的CSDN专栏[剑指offer](https://blog.csdn.net/sinat_36811967/column/info/34518)
 
 | # | Title | Solution |
 |---| ----- | -------- |
