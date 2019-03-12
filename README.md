@@ -35,6 +35,12 @@
 |28|[实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)| [Python](leetcode/028实现strStr().py)|简单|
 |29|[两数相除](https://leetcode-cn.com/problems/divide-two-integers/)| [Python](leetcode/029两数相除.py)|中等|
 |30|[串联所有单词的子串](https://leetcode-cn.com/problems/substring-with-concatenation-of-all-words/)| [Python](leetcode/030串联所有单词的子串.py)|困难|
+|31|[下一个排列](https://leetcode-cn.com/problems/next-permutation/)| [Python](leetcode/031下一个排列.py)|中等|
+|32|[最长有效括号](https://leetcode-cn.com/problems/longest-valid-parentheses/)| [Python](leetcode/032最长有效括号.py)|困难|
+|33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode/033搜索旋转排序数组.py)|中等|
+|34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](leetcode/034在排序数组中查找元素的第一个和最后一个位置.py)|中等|
+|35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)| [Python](leetcode/035搜索插入位置.py)|简单|
+
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
 详细解答见我的CSDN专栏[剑指offer](https://blog.csdn.net/sinat_36811967/column/info/34518)
