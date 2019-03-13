@@ -40,6 +40,11 @@
 |33|[搜索旋转排序数组](https://leetcode-cn.com/problems/search-in-rotated-sorted-array/)| [Python](leetcode/033搜索旋转排序数组.py)|中等|
 |34|[在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)| [Python](leetcode/034在排序数组中查找元素的第一个和最后一个位置.py)|中等|
 |35|[搜索插入位置](https://leetcode-cn.com/problems/search-insert-position/)| [Python](leetcode/035搜索插入位置.py)|简单|
+|36|[有效的数独](https://leetcode-cn.com/problems/valid-sudoku/)| [Python](leetcode/036有效的数独.py)|中等|
+|37|[解数独](https://leetcode-cn.com/problems/sudoku-solver/)| [Python](leetcode/037解数独.py)|困难|
+|38|[报数](https://leetcode-cn.com/problems/count-and-say/)| [Python](leetcode/038报数.py)|简单|
+|39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)| [Python](leetcode/039组合总和.py)|中等|
+|40|[组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)| [Python](leetcode/040组合总和II.py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
