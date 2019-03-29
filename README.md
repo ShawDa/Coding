@@ -45,6 +45,11 @@
 |38|[报数](https://leetcode-cn.com/problems/count-and-say/)| [Python](leetcode/038报数.py)|简单|
 |39|[组合总和](https://leetcode-cn.com/problems/combination-sum/)| [Python](leetcode/039组合总和.py)|中等|
 |40|[组合总和II](https://leetcode-cn.com/problems/combination-sum-ii/)| [Python](leetcode/040组合总和II.py)|中等|
+|41|[缺失的第一个正数](https://leetcode-cn.com/problems/first-missing-positive/)| [Python](leetcode/041缺失的第一个正数.py)|困难|
+|42|[接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)| [Python](leetcode/042接雨水.py)|困难|
+|43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)| [Python](leetcode/043字符串相乘.py)|中等|
+|44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)| [Python](leetcode/044通配符匹配.py)|困难|
+|45|[跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/)| [Python](leetcode/045跳跃游戏II.py)|困难|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
