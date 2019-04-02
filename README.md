@@ -50,6 +50,11 @@
 |43|[字符串相乘](https://leetcode-cn.com/problems/multiply-strings/)| [Python](leetcode/043字符串相乘.py)|中等|
 |44|[通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)| [Python](leetcode/044通配符匹配.py)|困难|
 |45|[跳跃游戏II](https://leetcode-cn.com/problems/jump-game-ii/)| [Python](leetcode/045跳跃游戏II.py)|困难|
+|46|[全排列](https://leetcode-cn.com/problems/permutations/)| [Python](leetcode/046全排列.py)|中等|
+|47|[全排列II](https://leetcode-cn.com/problems/permutations-ii/)| [Python](leetcode/047全排列II.py)|中等|
+|48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)| [Python](leetcode/048旋转图像.py)|中等|
+|49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)| [Python](leetcode/049字母异位词分组.py)|中等|
+|50|[Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)| [Python](leetcode/050Pow(x,n).py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)

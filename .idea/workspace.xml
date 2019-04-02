@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="9ad098e0-f5af-47a8-a77c-a3238160594b" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -35,10 +36,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/coding-interviews/44翻转单词顺序列.py" />
-        <option value="$PROJECT_DIR$/coding-interviews/45扑克牌顺子.py" />
-        <option value="$PROJECT_DIR$/coding-interviews/46.孩子们的游戏(圆圈中最后剩下的数).py" />
-        <option value="$PROJECT_DIR$/coding-interviews/47求1+2+3+...+n.py" />
         <option value="$PROJECT_DIR$/coding-interviews/48不用加减乘除做加法.py" />
         <option value="$PROJECT_DIR$/coding-interviews/049把字符串转换成整数.py" />
         <option value="$PROJECT_DIR$/coding-interviews/50数组中重复的数字.py" />
@@ -80,12 +77,16 @@
         <option value="$PROJECT_DIR$/leetcode/086分隔链表.py" />
         <option value="$PROJECT_DIR$/leetcode/087扰乱字符串.py" />
         <option value="$PROJECT_DIR$/leetcode/088合并两个有序数组.py" />
-        <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/leetcode/089格雷编码.py" />
         <option value="$PROJECT_DIR$/leetcode/090子集II.py" />
         <option value="$PROJECT_DIR$/leetcode/091解码方法.py" />
         <option value="$PROJECT_DIR$/leetcode/092反转链表 II.py" />
         <option value="$PROJECT_DIR$/leetcode/092反转链表II.py" />
+        <option value="$PROJECT_DIR$/leetcode/093复原IP地址.py" />
+        <option value="$PROJECT_DIR$/leetcode/094二叉树的中序遍历.py" />
+        <option value="$PROJECT_DIR$/leetcode/095不同的二叉搜索树II.py" />
+        <option value="$PROJECT_DIR$/leetcode/096不同的二叉搜索树.py" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -119,8 +120,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,15 +127,12 @@
               <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
               <item name="Coding" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Coding" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Coding" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -378,7 +374,14 @@
       <option name="project" value="LOCAL" />
       <updated>1553931006172</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="add 091-092">
+      <created>1554119862180</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1554119862180</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -446,35 +449,14 @@
     <MESSAGE value="add 081-084" />
     <MESSAGE value="add 085-088" />
     <MESSAGE value="add 089-090" />
-    <option name="LAST_COMMIT_MESSAGE" value="add 089-090" />
+    <MESSAGE value="add 091-092" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 091-092" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/coding-interviews/44翻转单词顺序列.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding-interviews/46.孩子们的游戏(圆圈中最后剩下的数).py" />
-    <entry file="file://$PROJECT_DIR$/coding-interviews/47求1+2+3+...+n.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/coding-interviews/48不用加减乘除做加法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coding-interviews/04重建二叉树.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -756,17 +738,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="446">
-            <caret line="51" column="96" lean-forward="false" selection-start-line="51" selection-start-column="96" selection-end-line="51" selection-end-column="96" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/leetcode/090子集II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -789,19 +760,55 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/leetcode/092反转链表 II.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/092反转链表 II.py" />
     <entry file="file://$PROJECT_DIR$/leetcode/092反转链表II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="572">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/093复原IP地址.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/094二叉树的中序遍历.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/095不同的二叉搜索树II.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="32" column="0" lean-forward="true" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/leetcode/096不同的二叉搜索树.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="996">
+            <caret line="56" column="90" lean-forward="false" selection-start-line="56" selection-start-column="90" selection-end-line="56" selection-end-column="90" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
