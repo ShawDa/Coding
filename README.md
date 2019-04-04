@@ -55,6 +55,11 @@
 |48|[旋转图像](https://leetcode-cn.com/problems/rotate-image/)| [Python](leetcode/048旋转图像.py)|中等|
 |49|[字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)| [Python](leetcode/049字母异位词分组.py)|中等|
 |50|[Pow(x,n)](https://leetcode-cn.com/problems/powx-n/)| [Python](leetcode/050Pow(x,n).py)|中等|
+|51|[N皇后](https://leetcode-cn.com/problems/n-queens/)| [Python](leetcode/051N皇后.py)|困难|
+|52|[N皇后II](https://leetcode-cn.com/problems/n-queens-ii/)| [Python](leetcode/052N皇后II.py)|困难|
+|53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)| [Python](leetcode/053最大子序和.py)|简单|
+|54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)| [Python](leetcode/054螺旋矩阵.py)|中等|
+|55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)| [Python](leetcode/055跳跃游戏.py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
