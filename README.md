@@ -60,6 +60,11 @@
 |53|[最大子序和](https://leetcode-cn.com/problems/maximum-subarray/)| [Python](leetcode/053最大子序和.py)|简单|
 |54|[螺旋矩阵](https://leetcode-cn.com/problems/spiral-matrix/)| [Python](leetcode/054螺旋矩阵.py)|中等|
 |55|[跳跃游戏](https://leetcode-cn.com/problems/jump-game/)| [Python](leetcode/055跳跃游戏.py)|中等|
+|56|[合并区间](https://leetcode-cn.com/problems/merge-intervals/)| [Python](leetcode/056合并区间.py)|中等|
+|57|[插入区间](https://leetcode-cn.com/problems/insert-interval/)| [Python](leetcode/057插入区间.py)|困难|
+|58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)| [Python](leetcode/058最后一个单词的长度.py)|简单|
+|59|[螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/)| [Python](leetcode/059螺旋矩阵II.py)|中等|
+|60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)| [Python](leetcode/060第k个排列.py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
