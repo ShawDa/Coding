@@ -65,6 +65,11 @@
 |58|[最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)| [Python](leetcode/058最后一个单词的长度.py)|简单|
 |59|[螺旋矩阵II](https://leetcode-cn.com/problems/spiral-matrix-ii/)| [Python](leetcode/059螺旋矩阵II.py)|中等|
 |60|[第k个排列](https://leetcode-cn.com/problems/permutation-sequence/)| [Python](leetcode/060第k个排列.py)|中等|
+|61|[旋转链表](https://leetcode-cn.com/problems/rotate-list/)| [Python](leetcode/061旋转链表.py)|中等|
+|62|[不同路径](https://leetcode-cn.com/problems/unique-paths/)| [Python](leetcode/062不同路径.py)|中等|
+|63|[不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)| [Python](leetcode/063不同路径II.py)|中等|
+|64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)| [Python](leetcode/064最小路径和.py)|中等|
+|65|[有效数字](https://leetcode-cn.com/problems/valid-number/)| [Python](leetcode/065有效数字.py)|困难|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
