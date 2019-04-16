@@ -70,6 +70,11 @@
 |63|[不同路径II](https://leetcode-cn.com/problems/unique-paths-ii/)| [Python](leetcode/063不同路径II.py)|中等|
 |64|[最小路径和](https://leetcode-cn.com/problems/minimum-path-sum/)| [Python](leetcode/064最小路径和.py)|中等|
 |65|[有效数字](https://leetcode-cn.com/problems/valid-number/)| [Python](leetcode/065有效数字.py)|困难|
+|66|[加一](https://leetcode-cn.com/problems/plus-one/)| [Python](leetcode/066加一.py)|简单|
+|67|[二进制求和](https://leetcode-cn.com/problems/add-binary/)| [Python](leetcode/067二进制求和.py)|简单|
+|68|[文本左右对齐](https://leetcode-cn.com/problems/text-justification/)| [Python](leetcode/068文本左右对齐.py)|困难|
+|69|[x的平方根](https://leetcode-cn.com/problems/sqrtx/)| [Python](leetcode/069x的平方根.py)|简单|
+|70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)| [Python](leetcode/070爬楼梯.py)|简单|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
