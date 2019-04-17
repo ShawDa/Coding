@@ -75,6 +75,11 @@
 |68|[文本左右对齐](https://leetcode-cn.com/problems/text-justification/)| [Python](leetcode/068文本左右对齐.py)|困难|
 |69|[x的平方根](https://leetcode-cn.com/problems/sqrtx/)| [Python](leetcode/069x的平方根.py)|简单|
 |70|[爬楼梯](https://leetcode-cn.com/problems/climbing-stairs/)| [Python](leetcode/070爬楼梯.py)|简单|
+|71|[简化路径](https://leetcode-cn.com/problems/simplify-path/)| [Python](leetcode/071简化路径.py)|中等|
+|72|[编辑距离](https://leetcode-cn.com/problems/edit-distance/)| [Python](leetcode/072编辑距离.py)|困难|
+|73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)| [Python](leetcode/073矩阵置零.py)|中等|
+|74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)| [Python](leetcode/074搜索二维矩阵.py)|中等|
+|75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Python](leetcode/075颜色分类.py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
