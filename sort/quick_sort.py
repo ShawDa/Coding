@@ -1,24 +1,16 @@
 # -*- coding:utf-8 -*-
+__author__ = 'ShawDa'
 
-import random
-
-
-def random_int_list(start, stop, length):
-    start, stop = (int(start), int(stop)) if start <= stop else (int(stop), int(start))
-    length = int(abs(length)) if length else 0
-    random_list = []
-    for i in range(length):
-        random_list.append(random.randint(start, stop))
-    return random_list
+from random_list import random_int_list
 
 
 def quick_sort0(arr):
     length = len(arr)
     if length <= 1:
         return arr
-    first = arr.pop(0)
+    first = arr[0]
     less, more = [], []
-    for num in arr:
+    for num in arr[1:]:
         if num < first:
             less.append(num)
         else:
@@ -38,8 +30,8 @@ def quick_sort1(arr, left, right):
         return i
     if left < right:
         q = partition(arr, left, right)
-        quick_sort1(arr, left, q-1)
-        quick_sort1(arr, q+1, right)
+        quick_sort1(arr, left, q - 1)
+        quick_sort1(arr, q + 1, right)
     return arr
 
 
@@ -58,13 +50,13 @@ def quick_sort2(arr, left, right):
                 arr[i], arr[j] = arr[j], arr[i]
                 i += 1
         arr[high], arr[i] = arr[i], arr[high]
-        stack.extend([low, i-1, i+1, high])
+        stack.extend([low, i - 1, i + 1, high])
     return arr
 
 
 if __name__ == '__main__':
     data = random_int_list(1, 100, 10)
     print(data)
-    # print(quick_sort0(data))
-    # print(quick_sort1(data, 0, len(data)-1))
-    print(quick_sort2(data, 0, len(data)-1))
+    print(quick_sort0(data))
+    print(quick_sort1(data, 0, len(data) - 1))
+    print(quick_sort2(data, 0, len(data) - 1))

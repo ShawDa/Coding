@@ -1,15 +1,7 @@
 # -*- coding:utf-8 -*-
+__author__ = 'ShawDa'
 
-import random
-
-
-def random_int_list(start, stop, length):
-    start, stop = (int(start), int(stop)) if start <= stop else (int(stop), int(start))
-    length = int(abs(length)) if length else 0
-    random_list = []
-    for i in range(length):
-        random_list.append(random.randint(start, stop))
-    return random_list
+from random_list import random_int_list
 
 
 def heap_sort(arr):
@@ -20,7 +12,7 @@ def heap_sort(arr):
             child = 2 * root + 1
             if child > end:  # 无子节点
                 break
-            if child + 1 <= end and arr[child] < arr[child+1]:  # 找较大子节点
+            if child + 1 <= end and arr[child] < arr[child + 1]:  # 找较大子节点
                 child += 1
             if arr[root] < arr[child]:
                 arr[root], arr[child] = arr[child], arr[root]  # 交换父子节点
@@ -29,8 +21,8 @@ def heap_sort(arr):
                 break
 
     # 创建最大堆
-    for start in range((len(arr)//2) - 1, -1, -1):
-        max_heapify(start, len(arr)-1)
+    for start in range((len(arr) // 2) - 1, -1, -1):
+        max_heapify(start, len(arr) - 1)
 
     for end in range(len(arr) - 1, 0, -1):
         arr[0], arr[end] = arr[end], arr[0]  # 将最大值置后

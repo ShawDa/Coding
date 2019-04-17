@@ -1,24 +1,17 @@
 # -*- coding:utf-8 -*-
+__author__ = 'ShawDa'
 
-import random
-
-
-def random_int_list(start, stop, length):
-    start, stop = (int(start), int(stop)) if start <= stop else (int(stop), int(start))
-    length = int(abs(length)) if length else 0
-    random_list = []
-    for i in range(length):
-        random_list.append(random.randint(start, stop))
-    return random_list
+from random_list import random_int_list
 
 
 def merge_sort(arr):
     length = len(arr)
     if length <= 1:
         return arr
-    mid = int(length/2)
-    left, right = arr[0:mid], arr[mid:]
+    mid = int(length / 2)
+    left, right = arr[:mid], arr[mid:]
     left, right = merge_sort(left), merge_sort(right)
+    # 两个有序list合并
     res = []
     while left and right:
         if left[0] <= right[0]:
