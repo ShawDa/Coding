@@ -80,6 +80,11 @@
 |73|[矩阵置零](https://leetcode-cn.com/problems/set-matrix-zeroes/)| [Python](leetcode/073矩阵置零.py)|中等|
 |74|[搜索二维矩阵](https://leetcode-cn.com/problems/search-a-2d-matrix/)| [Python](leetcode/074搜索二维矩阵.py)|中等|
 |75|[颜色分类](https://leetcode-cn.com/problems/sort-colors/)| [Python](leetcode/075颜色分类.py)|中等|
+|76|[最小覆盖子串](https://leetcode-cn.com/problems/minimum-window-substring/)| [Python](leetcode/076最小覆盖子串.py)|困难|
+|77|[组合](https://leetcode-cn.com/problems/combinations/)| [Python](leetcode/077组合.py)|中等|
+|78|[子集](https://leetcode-cn.com/problems/subsets/)| [Python](leetcode/078子集.py)|中等|
+|79|[单词搜索](https://leetcode-cn.com/problems/word-search/)| [Python](leetcode/079单词搜索.py)|中等|
+|80|[删除排序数组中的重复项II](https://leetcode-cn.com/problems/remove-duplicates-from-sorted-array-ii/)| [Python](leetcode/080删除排序数组中的重复项II.py)|中等|
 
 
 ## [Coding-interviews](https://www.nowcoder.com/ta/coding-interviews?page=1)
